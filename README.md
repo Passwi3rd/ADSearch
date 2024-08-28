@@ -1,0 +1,1 @@
+This is a powershell to allow the user to retieve a users UPN, email address and manager details from Active Directory by entering the user sAMAccountName and domain. You can use wildcard searches (*son, jame* etc.). 
